@@ -1,0 +1,26 @@
+/* Created by: Graeme Barbe
+* Created on: April 19 
+* This CSS file defines the style for index.html
+*/
+
+body {
+	background-color: #7271a2
+}
+
+h1{
+	color: rgb(255, 255, 255);
+}
+
+h5{
+	color: rgb(255, 255, 255);
+}
+
+h4{
+	color: rgb(255, 255, 255);
+}
+
+.mdl-layout__header-row {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
